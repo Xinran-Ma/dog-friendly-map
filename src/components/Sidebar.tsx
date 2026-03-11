@@ -21,7 +21,7 @@ interface SidebarProps {
 }
 
 export default function Sidebar({ selectedTypes, onTypeToggle, selectedPlace, onPlaceSelect }: SidebarProps) {
-  const placeTypes: PlaceType[] = ['park', 'cafe', 'pet_store', 'vet', 'dog_park', 'beach'];
+  const placeTypes: PlaceType[] = ['park', 'cafe', 'pet_store', 'vet', 'dog_park', 'beach', 'pub'];
 
   return (
     <Box w="320px" h="100%" bg="white" borderRight="1px solid" borderColor="gray.200" display="flex" flexDirection="column" overflow="hidden">

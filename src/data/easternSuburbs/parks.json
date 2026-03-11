@@ -1,0 +1,170 @@
+[
+  {
+    "id": "eastern-park-bronte-gully",
+    "name": "Bronte Park Gully",
+    "type": "park",
+    "description": "Waverley timed off-leash area within the gully.",
+    "address": "Bronte Park, Bronte NSW 2024",
+    "coordinates": [
+      151.2679,
+      -33.9018
+    ],
+    "website": "https://www.waverley.nsw.gov.au/__data/assets/pdf_file/0006/65157/GD00819_Dogs_in_Public_Places_Brochure.pdf"
+  },
+  {
+    "id": "eastern-park-marks",
+    "name": "Marks Park",
+    "type": "park",
+    "description": "Waverley timed off-leash area near Tamarama headland.",
+    "address": "Marks Park, Tamarama NSW 2026",
+    "coordinates": [
+      151.2818,
+      -33.8994
+    ],
+    "website": "https://www.waverley.nsw.gov.au/__data/assets/pdf_file/0006/65157/GD00819_Dogs_in_Public_Places_Brochure.pdf"
+  },
+  {
+    "id": "eastern-park-hugh-bamford",
+    "name": "Hugh Bamford Reserve",
+    "type": "park",
+    "description": "North Bondi reserve; Waverley brochure notes suitable off-leash area for small dogs.",
+    "address": "Hugh Bamford Reserve, North Bondi NSW 2026",
+    "coordinates": [
+      151.2838,
+      -33.8888
+    ],
+    "website": "https://www.waverley.nsw.gov.au/__data/assets/pdf_file/0006/65157/GD00819_Dogs_in_Public_Places_Brochure.pdf"
+  },
+  {
+    "id": "eastern-park-dickson",
+    "name": "Dickson Park",
+    "type": "park",
+    "description": "Top section listed in Waverley dog brochure.",
+    "address": "Dickson Park, Bondi NSW 2026",
+    "coordinates": [
+      151.272,
+      -33.8915
+    ],
+    "website": "https://www.waverley.nsw.gov.au/__data/assets/pdf_file/0006/65157/GD00819_Dogs_in_Public_Places_Brochure.pdf"
+  },
+  {
+    "id": "eastern-park-waverley",
+    "name": "Waverley Park",
+    "type": "park",
+    "description": "Top section listed in Waverley dog brochure.",
+    "address": "Waverley Park, Bondi Junction NSW 2022",
+    "coordinates": [
+      151.2487,
+      -33.8924
+    ],
+    "website": "https://www.waverley.nsw.gov.au/__data/assets/pdf_file/0006/65157/GD00819_Dogs_in_Public_Places_Brochure.pdf"
+  },
+  {
+    "id": "eastern-park-queens",
+    "name": "Queens Park",
+    "type": "park",
+    "description": "Waverley all-day off-leash park.",
+    "address": "Queens Park, Queens Park NSW 2022",
+    "coordinates": [
+      151.2446,
+      -33.8975
+    ],
+    "website": "https://www.waverley.nsw.gov.au/off-leash_parks"
+  },
+  {
+    "id": "eastern-park-varna",
+    "name": "Varna Park",
+    "type": "park",
+    "description": "Eastern end listed in Waverley dog brochure.",
+    "address": "Varna Park, Waverley NSW 2024",
+    "coordinates": [
+      151.2568,
+      -33.9009
+    ],
+    "website": "https://www.waverley.nsw.gov.au/__data/assets/pdf_file/0006/65157/GD00819_Dogs_in_Public_Places_Brochure.pdf"
+  },
+  {
+    "id": "eastern-park-trenerry",
+    "name": "Trenerry Reserve",
+    "type": "park",
+    "description": "Dedicated off-leash dog exercise area in Coogee.",
+    "address": "1R Wolseley Rd, Coogee NSW 2034",
+    "coordinates": [
+      151.2615,
+      -33.9252
+    ],
+    "website": "https://www.randwick.nsw.gov.au/facilities-and-recreation/parks/parks-by-suburb/coogee/trenerry-reserve"
+  },
+  {
+    "id": "eastern-park-muraborah",
+    "name": "Muraborah Reserve",
+    "type": "park",
+    "description": "Declared off-leash dog park in 2025.",
+    "address": "Muraborah Reserve, Maroubra NSW 2035",
+    "coordinates": [
+      151.2457,
+      -33.943
+    ],
+    "website": "https://www.randwick.nsw.gov.au/about-us/news/news-items/2025/april/new-off-leash-dog-park-declared-in-maroubra"
+  },
+  {
+    "id": "eastern-park-lyne",
+    "name": "Lyne Park",
+    "type": "park",
+    "description": "Large foreshore park in Rose Bay often used by dog owners; verify leash rules by exact zone.",
+    "address": "Lyne Park, Rose Bay NSW 2029",
+    "coordinates": [
+      151.2678,
+      -33.8685
+    ],
+    "website": "https://www.woollahra.nsw.gov.au/Services/Animals-and-Pets/Walking-Your-Dog"
+  },
+  {
+    "id": "eastern-park-yarranabbe",
+    "name": "Yarranabbe Park",
+    "type": "park",
+    "description": "Known Woollahra off-leash area in Darling Point; useful western edge of East reference set.",
+    "address": "Yarranabbe Park, Darling Point NSW 2027",
+    "coordinates": [
+      151.2393,
+      -33.8703
+    ],
+    "website": "https://www.woollahra.nsw.gov.au/News/spend-some-quality-time-with-your-pooch-at-one-of-these-local-off-leash-parks"
+  },
+  {
+    "id": "eastern-park-european-diamond-bay",
+    "name": "Diamond Bay Reserve",
+    "type": "park",
+    "description": "Coastal reserve in Vaucluse area; useful walking destination, verify specific dog access by section.",
+    "address": "Diamond Bay Reserve, Vaucluse NSW 2030",
+    "coordinates": [
+      151.2864,
+      -33.8605
+    ],
+    "website": "https://www.waverley.nsw.gov.au/recreation/parks_and_reserves"
+  },
+  {
+    "id": "eastern-park-centennial",
+    "name": "Centennial Park",
+    "type": "park",
+    "description": "Major regional park adjoining the Eastern Suburbs with dog-friendly areas and high user demand.",
+    "address": "Centennial Park NSW 2021",
+    "coordinates": [
+      151.2368,
+      -33.8975
+    ],
+    "website": "https://www.sydney.com/articles/the-best-of-sydneys-dog-friendly-dining"
+  },
+  {
+    "id": "eastern-park-barracluff",
+    "name": "Barracluff Park",
+    "type": "park",
+    "description": "Bondi reserve in Waverley parks catalogue; verify exact dog access before launch.",
+    "address": "Barracluff Park, Bondi NSW 2026",
+    "coordinates": [
+      151.2704,
+      -33.891
+    ],
+    "website": "https://www.waverley.nsw.gov.au/recreation/parks_and_reserves"
+  }
+]
