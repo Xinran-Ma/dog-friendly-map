@@ -1,0 +1,86 @@
+[
+  {
+    "id": "eastern-pub-club-rose-bay",
+    "name": "Club Rose Bay",
+    "type": "pub",
+    "description": "Recently reopened venue with dog-friendly beer garden.",
+    "address": "64-76 Newcastle St, Rose Bay NSW 2029",
+    "coordinates": [
+      151.2722,
+      -33.87
+    ],
+    "website": "https://www.news.com.au/lifestyle/food/restaurants-bars/swarmed-the-joint-insane-queues-at-justin-hemmes-latest-venue/news-story/223c4a2eb10d7e1f9e32e4090331e64e"
+  },
+  {
+    "id": "eastern-pub-golden-sheaf",
+    "name": "The Golden Sheaf",
+    "type": "pub",
+    "description": "Large Double Bay pub/garden-bar commonly included in dog-friendly pub roundups; verify exact dog areas.",
+    "address": "429 New South Head Rd, Double Bay NSW 2028",
+    "coordinates": [
+      151.243,
+      -33.8774
+    ],
+    "website": "https://www.delicious.com.au/eat-out/restaurants/gallery/best-dog-friendly-sydney/izgmxb8h"
+  },
+  {
+    "id": "eastern-pub-the-nelson",
+    "name": "The Nelson Hotel",
+    "type": "pub",
+    "description": "Bondi Junction pub with beer garden; practical candidate for dog-friendly validation.",
+    "address": "125 Avoca St, Bondi Junction NSW 2022",
+    "coordinates": [
+      151.2469,
+      -33.892
+    ],
+    "website": "https://www.thenelsonhotel.com.au/"
+  },
+  {
+    "id": "eastern-pub-the-field",
+    "name": "The Field at Easts Rugby",
+    "type": "pub",
+    "description": "Explicitly described as dog-friendly in local directory listing.",
+    "address": "22A O'Sullivan Rd, Bellevue Hill NSW 2023",
+    "coordinates": [
+      151.2549,
+      -33.88
+    ],
+    "website": "https://easternsuburbsmums.com.au/business-directory/the-field-at-easts-rugby/"
+  },
+  {
+    "id": "eastern-pub-watsons-bay-boutique-hotel",
+    "name": "Watsons Bay Boutique Hotel",
+    "type": "pub",
+    "description": "Waterfront pub/hotel often included in dog-owner itineraries; verify current outdoor dog policy.",
+    "address": "1 Military Rd, Watsons Bay NSW 2030",
+    "coordinates": [
+      151.2834,
+      -33.8405
+    ],
+    "website": "https://pupsy.com.au/dog-friendly-sydney-eastern-suburbs/"
+  },
+  {
+    "id": "eastern-pub-coogee-bay-hotel",
+    "name": "Coogee Bay Hotel",
+    "type": "pub",
+    "description": "Beachside pub worth manual validation for dog access in outdoor zones.",
+    "address": "253 Coogee Bay Rd, Coogee NSW 2034",
+    "coordinates": [
+      151.2556,
+      -33.9208
+    ],
+    "website": "https://pupsy.com.au/dog-friendly-sydney-eastern-suburbs/"
+  },
+  {
+    "id": "eastern-pub-clovelly-hotel",
+    "name": "Clovelly Hotel",
+    "type": "pub",
+    "description": "Eastern Suburbs local often included in dog-friendly pub lists; verify current policy before release.",
+    "address": "381 Clovelly Rd, Clovelly NSW 2031",
+    "coordinates": [
+      151.2588,
+      -33.912
+    ],
+    "website": "https://www.darlodogs.com.au/dog-friendly-pubs-sydneyeasternsuburbs/"
+  }
+]

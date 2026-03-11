@@ -1,4 +1,5 @@
-export type PlaceType = 'park' | 'cafe' | 'pet_store' | 'vet' | 'dog_park' | 'beach';
+export type PlaceType = 'park' | 'cafe' | 'pet_store' | 'vet' | 'dog_park' | 'beach' | 'pub'
+;
 
 export interface Place {
   id: string;

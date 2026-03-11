@@ -1,0 +1,74 @@
+[
+  {
+    "id": "eastern-beach-rose-bay-foreshore",
+    "name": "Rose Bay Foreshore Dog Beach",
+    "type": "beach",
+    "description": "Harbour-side dog beach/foreshore area commonly used for off-leash exercise.",
+    "address": "Rose Bay Foreshore, Rose Bay NSW 2029",
+    "coordinates": [
+      151.2714,
+      -33.8688
+    ],
+    "website": "https://www.woollahra.nsw.gov.au/News/spend-some-quality-time-with-your-pooch-at-one-of-these-local-off-leash-parks"
+  },
+  {
+    "id": "eastern-beach-rose-bay-park",
+    "name": "Rose Bay Park & Beach",
+    "type": "beach",
+    "description": "Rose Bay park and adjacent beach area in Woollahra Council dog-walking guidance.",
+    "address": "Rose Bay Park, Rose Bay NSW 2029",
+    "coordinates": [
+      151.2739,
+      -33.8706
+    ],
+    "website": "https://www.woollahra.nsw.gov.au/Services/Animals-and-Pets/Walking-Your-Dog"
+  },
+  {
+    "id": "eastern-beach-lady-martin",
+    "name": "Lady Martin Beach",
+    "type": "beach",
+    "description": "Point Piper harbour beach listed by Woollahra Council as an on-leash location.",
+    "address": "Lady Martin Beach, Wolseley Rd, Point Piper NSW 2027",
+    "coordinates": [
+      151.2557,
+      -33.8681
+    ],
+    "website": "https://www.woollahra.nsw.gov.au/Services/Animals-and-Pets/Walking-Your-Dog"
+  },
+  {
+    "id": "eastern-beach-sirius-cove",
+    "name": "Sirius Cove Beach",
+    "type": "beach",
+    "description": "Popular harbour dog beach just across the Eastern Suburbs catchment for inspiration/reference.",
+    "address": "Sirius Cove Reserve, Mosman NSW 2088",
+    "coordinates": [
+      151.2439,
+      -33.8426
+    ],
+    "website": "https://www.sydney.com/articles/the-best-of-sydneys-dog-friendly-dining"
+  },
+  {
+    "id": "eastern-beach-bondi-south-end",
+    "name": "Bondi Beach South End (time-restricted)",
+    "type": "beach",
+    "description": "Often cited in dog-friendly guides as a time-restricted dog-access section; verify current rules before launch.",
+    "address": "Bondi Beach, Bondi Beach NSW 2026",
+    "coordinates": [
+      151.2767,
+      -33.893
+    ],
+    "website": "https://www.amalfie.com.au/blogs/australia/the-best-dog-friendly-cafes-in-sydney-your-complete-2026-guide"
+  },
+  {
+    "id": "eastern-beach-bellamy",
+    "name": "Bellamy Beach",
+    "type": "beach",
+    "description": "Small harbour beach along the Rose Bay promenade area.",
+    "address": "Bellamy Beach, New South Head Rd, Rose Bay NSW 2029",
+    "coordinates": [
+      151.2789,
+      -33.8714
+    ],
+    "website": "https://www.woollahra.nsw.gov.au/News/five-of-the-best-local-dog-walks"
+  }
+]

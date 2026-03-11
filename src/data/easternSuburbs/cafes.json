@@ -1,0 +1,122 @@
+[
+  {
+    "id": "eastern-cafe-harrys-bondi",
+    "name": "Harrys Bondi",
+    "type": "cafe",
+    "description": "Frequently cited as dog-friendly with outdoor seating in Bondi.",
+    "address": "136 Wairoa Ave, Bondi Beach NSW 2026",
+    "coordinates": [
+      151.2776,
+      -33.8888
+    ],
+    "website": "https://www.broadsheet.com.au/sydney/guides/best-dog-friendly-cafes"
+  },
+  {
+    "id": "eastern-cafe-porch-and-parlour",
+    "name": "Porch and Parlour",
+    "type": "cafe",
+    "description": "Frequently cited dog-friendly Bondi cafe with outdoor seating.",
+    "address": "17-18/110 Ramsgate Ave, North Bondi NSW 2026",
+    "coordinates": [
+      151.2817,
+      -33.8884
+    ],
+    "website": "https://www.broadsheet.com.au/sydney/guides/best-dog-friendly-cafes"
+  },
+  {
+    "id": "eastern-cafe-the-beekeeper",
+    "name": "The Beekeeper Bondi",
+    "type": "cafe",
+    "description": "Included in Sydney dog-friendly dining roundups.",
+    "address": "Hive Hotel, 151-153 Curlewis St, Bondi Beach NSW 2026",
+    "coordinates": [
+      151.2742,
+      -33.8912
+    ],
+    "website": "https://concreteplayground.com/sydney/pinboard/sydney-dog-friendly"
+  },
+  {
+    "id": "eastern-cafe-bay-ten-espresso",
+    "name": "Bay Ten Espresso",
+    "type": "cafe",
+    "description": "Dog-friendly cafe noted in Sydney dog-friendly lists.",
+    "address": "141 Military Rd, Neutral Bay NSW 2089",
+    "coordinates": [
+      151.2206,
+      -33.8307
+    ],
+    "website": "https://concreteplayground.com/sydney/pinboard/sydney-dog-friendly"
+  },
+  {
+    "id": "eastern-cafe-bills-bondi",
+    "name": "Bills Bondi",
+    "type": "cafe",
+    "description": "Bondi all-day venue with outdoor seating; practical candidate for manual verification.",
+    "address": "79 Hall St, Bondi Beach NSW 2026",
+    "coordinates": [
+      151.2745,
+      -33.8919
+    ],
+    "website": "https://www.bills.com.au/"
+  },
+  {
+    "id": "eastern-cafe-speedos",
+    "name": "Speedos Cafe",
+    "type": "cafe",
+    "description": "Beachfront Bondi cafe commonly listed in dog-friendly guides; verify current seating policy.",
+    "address": "126 Ramsgate Ave, North Bondi NSW 2026",
+    "coordinates": [
+      151.282,
+      -33.8882
+    ],
+    "website": "https://www.amalfie.com.au/blogs/australia/the-best-dog-friendly-cafes-in-sydney-your-complete-2026-guide"
+  },
+  {
+    "id": "eastern-cafe-sugar-and-spoon",
+    "name": "Sugar & Spoon",
+    "type": "cafe",
+    "description": "Rose Bay cafe commonly paired with Rose Bay dog beach in dog-cafe guides.",
+    "address": "1/1 New South Head Rd, Rose Bay NSW 2029",
+    "coordinates": [
+      151.2725,
+      -33.8694
+    ],
+    "website": "https://londonerinsydney.com/best-dog-cafes-in-sydney/"
+  },
+  {
+    "id": "eastern-cafe-jonos-kitchen",
+    "name": "Jono's Kitchen",
+    "type": "cafe",
+    "description": "Rose Bay cafe highlighted as dog-friendly with front and rear outdoor seating.",
+    "address": "2 Plumer Rd, Rose Bay NSW 2029",
+    "coordinates": [
+      151.2671,
+      -33.8708
+    ],
+    "website": "https://www.facebook.com/pupsy.team/posts/dog-friendly-cafe-rose-bay-nswjonos-kitchen-is-a-great-dog-friendly-cafe-to-drop/1301670261994647/"
+  },
+  {
+    "id": "eastern-cafe-three-blue-ducks-bronte",
+    "name": "Three Blue Ducks Bronte",
+    "type": "cafe",
+    "description": "Bronte venue frequently mentioned in Sydney dog-friendly lists; verify current dog policy.",
+    "address": "143 Macpherson St, Bronte NSW 2024",
+    "coordinates": [
+      151.2634,
+      -33.9041
+    ],
+    "website": "https://www.sydney.com/articles/the-best-of-sydneys-dog-friendly-dining"
+  },
+  {
+    "id": "eastern-cafe-glider-ks",
+    "name": "Glider KS",
+    "type": "cafe",
+    "description": "Mostly-outdoors Bondi cafe listed in dog-friendly cafe guides.",
+    "address": "132A Warners Ave, Bondi Beach NSW 2026",
+    "coordinates": [
+      151.2777,
+      -33.8893
+    ],
+    "website": "https://www.broadsheet.com.au/sydney/guides/best-dog-friendly-cafes"
+  }
+]

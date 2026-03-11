@@ -1,7 +1,19 @@
 import { Place } from '@/types';
+import beaches from './easternSuburbs/beaches.json';
+import cafes from './easternSuburbs/cafes.json';
+import parks from './easternSuburbs/parks.json';
+import pubs from './easternSuburbs/pubs.json';
+
+const easternSuburbsData = [
+  ...(beaches as Place[]),
+  ...(cafes as Place[]),
+  ...(parks as Place[]),
+  ...(pubs as Place[]),
+];
 
 export const places: Place[] = [
-  // Beaches
+  ...easternSuburbsData,
+  // Existing places
   {
     id: '1',
     name: 'Rose Bay Dog Beach',
@@ -29,7 +41,6 @@ export const places: Place[] = [
     coordinates: [151.2983, -33.7687],
     rating: 4.7,
   },
-  // Parks
   {
     id: '4',
     name: 'Centennial Park',
@@ -57,7 +68,6 @@ export const places: Place[] = [
     coordinates: [151.1577, -33.8831],
     rating: 4.7,
   },
-  // Cafes
   {
     id: '7',
     name: 'Café Bones',
@@ -88,7 +98,6 @@ export const places: Place[] = [
     rating: 4.5,
     phone: '(02) 9518 0771',
   },
-  // Pet Stores
   {
     id: '10',
     name: 'Petbarn Alexandria',
@@ -121,7 +130,6 @@ export const places: Place[] = [
     phone: '(02) 9559 2888',
     website: 'https://peto.com.au',
   },
-  // Vets
   {
     id: '13',
     name: 'Sydney Animal Hospitals - Inner West',
@@ -164,6 +172,7 @@ export const placeTypeLabels: Record<string, string> = {
   vet: 'Vets',
   dog_park: 'Dog Parks',
   beach: 'Beaches',
+  pub: 'Pubs',
 };
 
 export const placeTypeIcons: Record<string, string> = {
@@ -173,4 +182,5 @@ export const placeTypeIcons: Record<string, string> = {
   vet: '🏥',
   dog_park: '🐕',
   beach: '🏖️',
+  pub: '🍺',
 };
