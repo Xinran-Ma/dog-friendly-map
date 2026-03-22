@@ -5,10 +5,8 @@ import mapboxgl from 'mapbox-gl';
 import { Box, Text, VStack } from '@chakra-ui/react';
 import { Place, PlaceType } from '@/types';
 import { places as allPlaces, placeTypeLabels, placeTypeIcons } from '@/data/places';
-import { env } from "cloudflare:workers";
 
-
-mapboxgl.accessToken = env ? env.NEXT_PUBLIC_MAPBOX_TOKEN : process.env.NEXT_PUBLIC_MAPBOX_TOKEN;
+const MAPBOX_TOKEN = process.env.NEXT_PUBLIC_MAPBOX_TOKEN || '';
 
 interface MapProps {
   selectedTypes: PlaceType[];
@@ -28,6 +26,8 @@ export default function Map({ selectedTypes, onPlaceClick }: MapProps) {
 
   useEffect(() => {
     if (!mapContainer.current || map.current) return;
+
+    mapboxgl.accessToken = MAPBOX_TOKEN;
 
     map.current = new mapboxgl.Map({
       container: mapContainer.current,
